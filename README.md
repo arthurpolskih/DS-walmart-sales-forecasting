@@ -5,7 +5,7 @@ This project is part of my MBA program, where I aim to apply data science techni
 *Orientator: Francisco Aparecido Rodrigues, PhD*
 
 ## Objective
-Our primary goal is to develop a time series model that can accurately predict future sales for Walmart, specially in holiday periods. This would enable the organization to make informed decisions regarding inventory management, workforce planning, cash flow management, and strategic planning.
+Our primary goal is to develop a time series model that can accurately predict future sales for Walmart, specially in holiday periods.
 
 ## Data
 A rich dataset provided by Walmart on Kaggle has been used for this project. For more details about this dataset, visit the original link: [Walmart Sales Forecast Dataset](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
@@ -27,20 +27,3 @@ This file contains anonymized information about the 45 stores, indicating the ty
 - **Store:** Stores numbered from 1 to 45
 - **Type:** Store type has been provided, there are 3 types — A, B and C
 - **Size:** Stores size has provided from 34.9k to 220k
-
-## Methodology
-The project follows a structured data science pipeline, which includes the following steps:
-
-    1. Data Collection
-    2. Data Cleaning and Preprocessing
-    3. Exploratory Data Analysis (EDA)
-    4. Feature Engineering
-    5. Model Selection and Training
-    6. Model Validation and Tuning
-    7. Testing
-
-## Results
-    --
-
-## Requirements
-    --
